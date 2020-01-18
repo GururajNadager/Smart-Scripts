@@ -1,0 +1,21 @@
+﻿{
+  "Server": "",
+  "UserName": "",
+  "Password": "",
+  "Database": "",
+  "Tables": [
+    {
+      "Schema": "dbo",
+      "Name": "users"
+    }
+  ],
+  "StoredProcedures": [
+    {
+      "Schema": "dbo",
+      "Name": ""
+    }
+
+  ],
+  "OutputFolder": "",
+  "RollbackOutputFolder": ""
+}
